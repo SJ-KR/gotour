@@ -19,8 +19,8 @@ func main() {
 	fmt.Println("powers of 2 closest to 1000 :", sum)
 	// example 19
 	/*
-	for {
-		//infinite loop
-	}
+		for {
+			//infinite loop
+		}
 	*/
 }

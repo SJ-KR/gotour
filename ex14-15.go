@@ -3,16 +3,19 @@ package main
 import (
 	"fmt"
 )
+
 // example 14
 const Pi = 3.14
+
 // example 15
 const (
-	Big = 1 << 100
+	Big   = 1 << 100
 	Small = Big >> 99
 )
-func needint(x int) int { return x*10 }
+
+func needint(x int) int { return x * 10 }
 func needfloat(x float64) float64 {
-	return x*0.1
+	return x * 0.1
 }
 func main() {
 	// example 14
