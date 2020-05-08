@@ -1,0 +1,9 @@
+# Directories #
+result/
+
+# Data files #
+
+*.txt
+*.xml
+*.png
+*.img
